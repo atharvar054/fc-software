@@ -148,3 +148,4 @@ Behavior:
 - If map does not load, verify Google Maps API key and billing/API enablement.
 - If alerts do not appear, verify Storage path names and Firestore rules.
 - Some lint warnings may still exist for currently unused variables; they do not block build.
+- If you reading till end, get yourself some coffee
